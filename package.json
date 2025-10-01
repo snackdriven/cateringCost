@@ -1,5 +1,5 @@
 {
-  "name": "cateringCost",
+  "name": "cateringCostClouds",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.18.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
